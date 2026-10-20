@@ -33,8 +33,6 @@ This is a written, observation-based study. It describes what Morocco did in the
 
 ## 3. The Three Matches
 
-## 3. The Three Matches
-
 | Match | Context | Result |
 |---|---|---|
 | Morocco vs Jordan | FIFA Arab Cup 2021 | Morocco 4–0 Jordan |
