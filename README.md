@@ -33,11 +33,21 @@ This is a written, observation-based study. It describes what Morocco did in the
 
 ## 3. The Three Matches
 
+## 3. The Three Matches
+
 | Match | Context | Result |
 |---|---|---|
-| Morocco vs Jordan | FIFA Arab Cup 2021 | Not covered in my notes |
+| Morocco vs Jordan | FIFA Arab Cup 2021 | Morocco 4–0 Jordan |
 | Morocco vs Paraguay | International friendly, 2026 | Morocco 2–1 Paraguay |
 | Morocco vs Spain | FIFA World Cup 2018 | Morocco 2–2 Spain |
+
+| Match | Date | Morocco | Opponent |
+|---|---|---|---|
+| Morocco vs Jordan | 4 December 2021 | 4-3-3 | 4-2-3-1 |
+| Morocco vs Paraguay | 31 March 2026 | 4-2-3-1 | 4-4-2 |
+| Morocco vs Spain | 25 June 2018 | 4-2-3-1 | 4-2-3-1 |
+
+The formations above are the starting formations. I picked these matches because each one put Morocco in a different situation. Against Jordan, my notes are mostly about build-up, changing defensive shapes and attackers' decisions. Against Paraguay, they are about keeping the ball, using wide areas and where the defensive line stood. Against Spain, they are about staying compact, pressing Spain's build-up and hitting space on the counter.
 
 I picked these because each one put Morocco in a different situation. Against Jordan, my notes are mostly about build-up, changing defensive shapes and attackers' decisions. Against Paraguay, they are about keeping the ball, using wide areas and where the defensive line stood. Against Spain, they are about staying compact, pressing Spain's build-up and hitting space on the counter.
 
